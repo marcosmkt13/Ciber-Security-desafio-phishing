@@ -18,6 +18,6 @@
 - URL para clone: http://testphp.vulnweb.com/login.php
 
 
-### Resutados
+### Resultados
 
 ![Captura de Tela do Resultado](Password(3).png)
