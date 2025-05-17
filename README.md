@@ -20,4 +20,4 @@
 
 ### Resutados
 
-![Captura de Tela do Resultado](Password.png)
+(Password.png)
