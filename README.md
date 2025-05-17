@@ -20,4 +20,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Captura de Tela do Resultado](Password.png)
